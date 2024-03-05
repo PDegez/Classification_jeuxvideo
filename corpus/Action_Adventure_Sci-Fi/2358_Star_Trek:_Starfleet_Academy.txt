@@ -1,0 +1,1 @@
+FMV space combat simulator, where you play a cadet training to become a Starfleet officer at the Academy and have adventures there in addition to your training.

@@ -1,0 +1,1 @@
+The 8-bit hand-held version (Game Boy and Game Gear) of "Last Action Hero" is a side-scrolling platformer and top-down driver. Jack Slater must collect floating tickets and beat the timer to reach the end of each level.

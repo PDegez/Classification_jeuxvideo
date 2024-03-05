@@ -1,0 +1,1 @@
+An arcade volleyball game featuring the characters and likeness of the Klonoa franchise. You compete in 2-on-2 matches using a selection of characters from the franchise in hopes of winning the 5-match tournament.

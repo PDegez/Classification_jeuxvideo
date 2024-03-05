@@ -1,0 +1,1 @@
+Players control a spaceship, shooting at a variety of alien birds of different sizes and attack patterns.

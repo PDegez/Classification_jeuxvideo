@@ -1,0 +1,1 @@
+A vector space combat game. You have to destroy alien ships invading your solar system and rescue the survivors before they fall into the sun and die.

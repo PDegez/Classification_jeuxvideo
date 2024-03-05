@@ -1,0 +1,1 @@
+The player's ship flies over a horizontally scrolling planet surface, protecting friendly humanoids from alien abduction. Destroying all enemies advances you to the next wave. Loss of all humanoids destroys the planet until it is reinstated every fifth wave.

@@ -1,0 +1,1 @@
+Space tower defense game with FMVs that emulate 50s campy Sci-Fi movies. Hostile alien race, the Gorg, from Planet X near Neptune, launches an all out assault on Earth. As Captain Adam, you must defend their first target, space base Zulu.

@@ -1,0 +1,1 @@
+A localized USA fighting game that was redone using the 'Ranma 1/2: Chounai Gekitou Hen' engine.

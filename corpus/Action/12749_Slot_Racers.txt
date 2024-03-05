@@ -1,0 +1,1 @@
+Rudimentary graphics and sounds allow you to be a slot car racing around a maze and trying to be the first player to shoot your opponent 25 times. You float around but have the ability to stop and start, and you shoot square-shaped bullets from the front of your car. There is no music, only a deep, grinding chord (reminiscent of the theme from

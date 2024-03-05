@@ -1,0 +1,1 @@
+Skateboarding game in which players can create a custom-design character and move it through the fictional town of San Vanelona to become a top skater.

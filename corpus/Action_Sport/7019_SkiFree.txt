@@ -1,0 +1,1 @@
+SkiFree is a single-player skiing computer game. The player controls a skier on a mountain slope, avoiding obstacles while racing against time or performing stunts for points, depending on the game mode.

@@ -1,0 +1,1 @@
+Build up a castle using Tetris-like pieces to form a wall enclosing your territory. Next, place cannons, and then use them to fire upon enemy boats or opposite player's castle! Then it's back to rebuilding your castle before another round of destruction.

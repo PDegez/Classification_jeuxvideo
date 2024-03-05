@@ -1,0 +1,1 @@
+Take control of a rocket ship as it travels across reaches of outer space. The mission assigned to the rocket is to shoot a pair of flying saucers while avoiding their line of fire. along with firing rockets, the rocket is able to travel in a clockwise rotation, counterclockwise rotation, as well as performing a forward thrust.

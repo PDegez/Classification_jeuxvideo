@@ -1,0 +1,1 @@
+Activity center game based on Disney's Tarzan (1999). Play three mini-games (a climbing puzzle game, a breakout clone and tile matching) or paint and play three songs from the movie.

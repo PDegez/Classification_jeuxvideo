@@ -1,0 +1,1 @@
+A challenging 2D platformer with hard boss fights and unique mechanics. Contains several bosses and platformer levels. Includes two difficulties, different weapon choices, different paths of passing through the game and a lot of surprises.

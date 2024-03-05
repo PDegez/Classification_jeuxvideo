@@ -1,0 +1,1 @@
+A BASIC computer game in which the player must destroy five enemy spacecraft.

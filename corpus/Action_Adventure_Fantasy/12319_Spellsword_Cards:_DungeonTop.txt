@@ -1,0 +1,1 @@
+A rogue-like deck-building experience coupled with table top battles. Choose a hero and allegiance then dive deep into the dungeon, evolving your deck for survival. Each choice you make matters, even in between battles.

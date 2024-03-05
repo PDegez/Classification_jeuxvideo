@@ -1,0 +1,1 @@
+The player controls a gun that can only move in the bottom fifth of the screen. The object is to shoot a centipede that works its way down to the player area through a field of mushrooms. Other attacking enemies are fleas, spiders, and scorpions.

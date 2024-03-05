@@ -1,0 +1,1 @@
+Action puzzle game with rotating mirrors that deflect a ray of spell from a wizard to his kettles with ingredients.

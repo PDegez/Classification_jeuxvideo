@@ -1,0 +1,1 @@
+This is a theme park simulation video game where your created character is the manager of a line of theme parks owned by uncle Mortimer. Your job is to keep your customers happy and keep them out of being bored throughout the game.

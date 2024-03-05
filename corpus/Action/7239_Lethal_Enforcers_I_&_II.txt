@@ -1,0 +1,1 @@
+Compilation game containing both Lethal Enforcers I and II.

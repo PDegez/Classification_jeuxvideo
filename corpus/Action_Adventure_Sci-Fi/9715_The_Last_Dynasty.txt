@@ -1,0 +1,1 @@
+FMV game that has both space combat simulator sections and Myst clone adventure game parts. Space pilot Mel Raauq is sent to stop Lord Iron, who's trying to take over the galaxy. He must also explore other planets.

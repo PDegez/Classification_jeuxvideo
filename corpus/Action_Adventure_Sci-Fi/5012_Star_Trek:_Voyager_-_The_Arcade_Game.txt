@@ -1,0 +1,1 @@
+An hour-long interactive Arcade game based on the Popular Television series in which the player battles a Borg invasion and returns an endangered alien species to it's home planet.

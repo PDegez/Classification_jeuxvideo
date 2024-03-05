@@ -1,0 +1,1 @@
+An arcade flight simulator that lets you (the player) pilot an F-14 Tomcat. You must destroy oncoming enemy aircraft's in order to advance through each level.

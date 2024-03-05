@@ -1,0 +1,1 @@
+Mappy is a side-scrolling platform game that features Mappy, a police mouse that must retrieve stolen goods that are stored in a Mansion that belong to a cat gang (called Meowkies in the game) that Mappy must avoid.

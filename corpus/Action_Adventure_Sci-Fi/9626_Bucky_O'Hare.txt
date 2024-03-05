@@ -1,0 +1,1 @@
+A simple 2-D scrolling shooter where you walk, fly or drive through various waves of animated cannon-fodder animals.

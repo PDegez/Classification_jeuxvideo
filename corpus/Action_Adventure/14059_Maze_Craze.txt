@@ -1,0 +1,1 @@
+Maze Craze is an two player racing/puzzle game. One player controls a Cop, and the other controls a criminal, the aim is to reach the exit of the maze before the other player. Each maze is randomly generated.

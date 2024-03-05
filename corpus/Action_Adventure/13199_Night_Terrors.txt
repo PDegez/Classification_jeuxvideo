@@ -1,0 +1,1 @@
+Night Terrors is a 3D isometric couch cooperative survival game for four players made in Unity. Working as a team of kids, you and your fellow playmates must defend each other and a light source from Boogeys trying to envelop everyone in the darkness.

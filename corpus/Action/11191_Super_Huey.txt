@@ -1,0 +1,1 @@
+A helicopter simulation game. You are the pilot of the experimental helicopter UH-1XA and you need to test it out in several game modes.

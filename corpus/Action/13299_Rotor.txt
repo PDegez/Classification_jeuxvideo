@@ -1,0 +1,1 @@
+You control a battle tank (the Rotor) which hovers in a 2D labyrinth. Gravity pulls heavily on the Rotor, making it fall towards the ground. As any contact with walls or enemies is deadly, your main task is to avoid that. You may rotate your tank freely and accelerate via an afterburner, thus maneuvering through the corridors -- imagine a mix of

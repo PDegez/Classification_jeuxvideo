@@ -1,0 +1,1 @@
+A 2D platform game very loosely based on the Pink Panther cartoon show. To become a Hollywood star, Pink must beat seven levels: the pirate ship, Sherwood Forest, western town, the fridge, haunted house, skyline and jungle temple.

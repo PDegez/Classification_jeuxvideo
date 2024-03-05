@@ -1,0 +1,1 @@
+The player controls a lone spacecraft on a mission to take down the entire enemy armada. Enemy fighters and ships shoot at the player, and there are mines and other objects that must be shot or avoided.

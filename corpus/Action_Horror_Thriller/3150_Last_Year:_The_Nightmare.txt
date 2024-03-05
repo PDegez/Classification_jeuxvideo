@@ -1,0 +1,1 @@
+Players must choose to be either a "survivor" or a "killer", where survivors must complete objectives to escape before the killer gets them.

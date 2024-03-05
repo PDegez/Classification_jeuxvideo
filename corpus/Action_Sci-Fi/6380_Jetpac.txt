@@ -1,0 +1,1 @@
+Jetman must assemble his rocket (which spawns in pieces scattered around the map), and then fill it with fuel before taking off to the next planet, where the procedure is broadly repeated with alternate procedures.

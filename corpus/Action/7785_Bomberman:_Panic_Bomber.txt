@@ -1,0 +1,1 @@
+Bomberman automatically advances on a "world map", defeating opponents in falling block contests in a linear fashion.

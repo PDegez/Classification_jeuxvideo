@@ -1,0 +1,1 @@
+Flash game in which a small spacecraft shoots a series of progressively bigger and more intense bosses.

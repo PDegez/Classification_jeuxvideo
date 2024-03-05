@@ -1,0 +1,1 @@
+A multi-directional shooter arcade game in which two players take the role of two cowboys engaged in a gun duel. Both cowboys carry no more than six bullets during each round of the duel, a round ends when both cowboys have used up all of their bullets.

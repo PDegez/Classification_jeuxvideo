@@ -1,0 +1,1 @@
+Sonic the Hedgehog Forever is a PC fan-remake of the original Sonic the Hedgehog, It provides many enhancements over the original game, such as widescreen support, 60FPS at all-times, mod support, and other additions.

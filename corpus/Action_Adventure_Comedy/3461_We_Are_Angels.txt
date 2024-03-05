@@ -1,0 +1,1 @@
+Animated 2D platformer based on the Italian TV series of the same name. Heroic fake monk Orso must escape jail and defeat Santillana, the strongman of San Rolando village. You get FMV briefings from Orso. The game has six stages.

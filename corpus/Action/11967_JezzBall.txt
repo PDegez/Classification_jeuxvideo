@@ -1,0 +1,1 @@
+Fill the playing area by drawing walls vertically or horizontally, but do not let the diagonally reflecting balls break your expanding walls.

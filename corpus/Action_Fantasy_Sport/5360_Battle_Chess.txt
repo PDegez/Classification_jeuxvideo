@@ -1,0 +1,1 @@
+Animated chess game set in a medieval setting with some fantasy elements. Each time a piece takes another, short battle animation plays. These short animated battles to the death sometimes have a funny twist to them.

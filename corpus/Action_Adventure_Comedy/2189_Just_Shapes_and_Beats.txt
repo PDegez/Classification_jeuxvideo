@@ -1,0 +1,1 @@
+You control a small square that dodges a series of pink shapes that move in time with the background music.

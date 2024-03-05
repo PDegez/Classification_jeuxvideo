@@ -1,0 +1,1 @@
+PowerSlave: Exhumed is a KEX Engine port of the classic console game perfectly blending both the PlayStation and Saturn versions.

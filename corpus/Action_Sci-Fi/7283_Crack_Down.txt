@@ -1,0 +1,1 @@
+Labyrinthine top-down scroller in which you must lead two heroes to diffuse bombs and destroy evil robots.

@@ -1,0 +1,1 @@
+A text-based game describing the events on the USS Enterprise. You make the choices during a battle with an enemy spaceship, such as moving the Enterprise or firing phasers.

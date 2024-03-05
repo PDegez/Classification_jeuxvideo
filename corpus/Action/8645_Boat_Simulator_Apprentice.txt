@@ -1,0 +1,1 @@
+Boat Simulator Apprentice is a small boat training game that caters to both simulator fans and arcade game lovers. Learn how to drive a motorboat via structured lessons, participate in rescue missions, time trials, treasure hunts, and boat sprints.

@@ -1,0 +1,1 @@
+A side-scrolling shoot-em-up platformer based on Frank Miller's Dark Horse comic-book.

@@ -1,0 +1,1 @@
+A flight simulator video game that puts the player in the role of a helicopter pilot doing various jobs around a city.

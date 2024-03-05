@@ -1,0 +1,1 @@
+This version introduces the dual mode play system: Advanced and Extra. Advanced allows for a faster, offensive play while Extra allows for a more defensive, special-intensive play.

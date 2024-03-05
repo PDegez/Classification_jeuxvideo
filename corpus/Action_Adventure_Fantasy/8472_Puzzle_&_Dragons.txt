@@ -1,0 +1,1 @@
+Puzzle and Dragons is a match-three puzzle game, requiring players to move and match colored orbs arranged in a grid.

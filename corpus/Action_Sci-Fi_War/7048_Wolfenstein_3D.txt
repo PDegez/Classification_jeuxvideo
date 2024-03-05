@@ -1,0 +1,1 @@
+This release of Wolfenstein 3D includes 90 levels: The 30 levels of the SNES/Jaguar version (called the "Second Encounter" on the Macintosh, the "Original Encounter" on the 3DO and Apple IIgs) and the 60 levels of the original PC version

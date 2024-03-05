@@ -1,0 +1,1 @@
+Arcade shooter in which the player controls Michael Chen, a powerful warrior who flies on a cloud and uses magical projectiles to fight enemies.

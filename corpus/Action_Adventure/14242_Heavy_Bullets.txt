@@ -1,0 +1,1 @@
+Heavy Bullets is a randomized FPS dungeon crawler where players make their way through a colorful maze, while protecting themselves from aggressive creatures and malfunctioning security devices.

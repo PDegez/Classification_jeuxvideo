@@ -1,0 +1,1 @@
+Geometry Dash is a simple tapping/clicking game for the iOS and PC that contains certain objects the player must dodge in order to complete the level.

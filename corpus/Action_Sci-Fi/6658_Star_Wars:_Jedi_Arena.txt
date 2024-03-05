@@ -1,0 +1,1 @@
+A simple video game involving indirect lightsaber combat between two Jedi: the winner will become a Jedi Master.

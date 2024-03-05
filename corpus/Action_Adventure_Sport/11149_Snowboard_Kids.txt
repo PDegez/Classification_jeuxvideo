@@ -1,0 +1,1 @@
+A racing game where you control one of five cutesy snowboarders competing against each other. Being a snowboarding game, each track is a downhill slalom with a ski lift at the bottom which takes you back to the start for however many laps a track has.

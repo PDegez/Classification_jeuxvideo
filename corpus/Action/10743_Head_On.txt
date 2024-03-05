@@ -1,0 +1,1 @@
+Head On is a racing game in which the player must avoid collisions for as long as possible. The player can switch lanes to avoid head-on crashes and has three lives. The car will continuously speed up while the joystick is pushed to the right.

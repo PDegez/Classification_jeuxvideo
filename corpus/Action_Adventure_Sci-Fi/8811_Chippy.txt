@@ -1,0 +1,1 @@
+Chippy is a twin-stick bullet-hell shooter with destructible bosses, Chip them apart pixel-by-pixel, slice off sections, and attack their cores as fast as you can.

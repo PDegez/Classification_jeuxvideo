@@ -1,0 +1,1 @@
+The 16-bit version of "Terminator 2" is a 2D side-scrolling shooter with top-down driving stages. The plot of the game follows the film, with the T-800 attempting to protect John and Sarah Connor from the T-1000 and take down Cyberdyne.

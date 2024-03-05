@@ -1,0 +1,1 @@
+Tank/Plane Battle features 26 different game variations. There are sixteen top-down tank battle games with different playfield conditions (day/night, clear or with various different barricades or minefields) and ten top-down flight combat games with different types of airplanes (biplanes, jets) and cloud formations.

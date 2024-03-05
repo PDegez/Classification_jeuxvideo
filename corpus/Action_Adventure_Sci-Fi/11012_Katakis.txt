@@ -1,0 +1,1 @@
+A side-scrolling space-shooter very similar to R-Type.

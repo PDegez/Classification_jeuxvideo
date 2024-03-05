@@ -1,0 +1,1 @@
+Gunforce is a 2D side-scrolling run and gun game. The player takes control of a soldier who is dropped off onto an island and must fight his way through hordes of enemy soldiers until he gets to the final showdown in order to protect Mother Earth from the invaders.

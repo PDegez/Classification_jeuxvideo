@@ -1,0 +1,1 @@
+A 2D top-down shooter game set in a distant, post-apocalyptic future. The player is a warrior who must find a crazy warmonger and deactivate a nuclear bomb.

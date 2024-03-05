@@ -1,0 +1,1 @@
+A role-playing trading card game, developed for the iOS App Store.

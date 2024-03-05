@@ -1,0 +1,1 @@
+It's a combination of roguelike-like gameplay with a deck-building card game. It requires players to develop a strategy for their deck on the fly based on the cards they can obtain from loot.

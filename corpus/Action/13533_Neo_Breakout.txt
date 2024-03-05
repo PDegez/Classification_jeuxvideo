@@ -1,0 +1,1 @@
+This 2022 re-imagining of the Atari classic Breakout for the Atari 50 collection features progression from black and white to colorful and progressively more difficult multi-ball stages, as well as a 2-player Battle Breakout mode.

@@ -1,0 +1,1 @@
+Shooting Gallery features 32 variations of target shooting for one or two players. Games feature various targets that run, swim, or fly across the screen for the player to shoot at. Later releases contained an additional modifier for 64 variations. The players are displayed at the bottom of the screen with animals moving in different layers above them.

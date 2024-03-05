@@ -1,0 +1,1 @@
+You control a paddle that can go left or right and you must bounce a ball against jewels that eliminates them.

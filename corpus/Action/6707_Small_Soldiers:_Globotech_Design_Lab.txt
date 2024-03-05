@@ -1,0 +1,1 @@
+A PC strategy/action game based on the film Small Soldiers. You can either design and build your own squad of soldiers or choose from pre-built characters. After you create your soldiers, you then battle the opposite team.

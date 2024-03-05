@@ -1,0 +1,1 @@
+Comanche 4 is the fourth incarnation of Novalogic's helicopter simulation Comanche. This time, the game uses a real 3D environment (no voxels) and has easier gameplay. There are six brand new campaigns; you'll get to fight in cities as well as deserts or even Arctica.

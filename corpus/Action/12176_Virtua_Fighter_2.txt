@@ -1,0 +1,1 @@
+A Sega Genesis/Mega Drive port of the arcade fighting game "Virtua Fighter 2". Due to the limitations of the hardware, the gameplay and visuals are reduced to two dimensions.

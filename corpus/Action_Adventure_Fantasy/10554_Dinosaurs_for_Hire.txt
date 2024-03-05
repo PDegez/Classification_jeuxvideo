@@ -1,0 +1,1 @@
+A side scrolling shoot-em-up based on the hit comic-book series from Eternity Publishing.

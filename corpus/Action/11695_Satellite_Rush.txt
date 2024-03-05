@@ -1,0 +1,1 @@
+Satellite Rush is a pixelart top-down dual stick shooter with randomized levels and roguelike elements. Take control of an office worker and blast through the endless corridors of Satellite Moebius, an arena filled with vicious aliens, robots programmed to clean (or kill) and a (not always so) cheery audience.

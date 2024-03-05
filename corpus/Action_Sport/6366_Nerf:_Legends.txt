@@ -1,0 +1,1 @@
+First-person shooter based on the popular toy-gun franchise. Players take on the role of a candidate to take part in the NERF Legends Gauntlet Trials set up by the mysterious Dr Reynolds.

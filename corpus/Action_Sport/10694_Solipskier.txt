@@ -1,0 +1,1 @@
+A fast-paced action game based around skiing. The aim of the game is to get the skier as far as possible without crashing and rack up a large amount of points, but the player does not control him directly. Instead you need to draw the snow for him to ski on, with the mouse of by touching the screen.

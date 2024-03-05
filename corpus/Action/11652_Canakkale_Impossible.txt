@@ -1,0 +1,1 @@
+The game is a simple 8 bit action game designed to represent the struggle of the Nusret minelayer in Canakkale.

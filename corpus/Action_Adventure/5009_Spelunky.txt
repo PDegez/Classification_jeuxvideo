@@ -1,0 +1,1 @@
+Spelunky is a cave exploration/treasure-hunting game inspired by classic platform and dungeon crawler games. The goal is to grab as much treasure as possible from the cave. Perhaps at the end you may find what you're looking for.

@@ -1,0 +1,1 @@
+Massively multiplayer online game creation platform that allows users to design their own games and play a wide variety of different types of games created by other users.

@@ -1,0 +1,1 @@
+Designed and developed exclusively for the N-Gage gaming system, this version of "Spider-Man 2" is primarily a 2D platformer, with some 3D race-against-time stages interspersed. There are fifteen 2D levels and five 3D levels, with the main villains being The Lizard, Rhino, and Doc Ock.

@@ -1,0 +1,1 @@
+In Up Scope the player simulates the controls of a submarine console to orient the periscope and target enemy ships with torpedoes.

@@ -1,0 +1,1 @@
+Create your own basketball player, select from any of the 29 NBA teams and enter the championships. Additions to the game are spin moves, alley oops and double slam dunks and the "team fire" mode.

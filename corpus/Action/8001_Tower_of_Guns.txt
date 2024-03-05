@@ -1,0 +1,1 @@
+Made for a game jam, Tower of Guns is a fast paced, first person action adventure game. Each run has a randomly assigned storyline and each course of levels is somewhat randomly generated.

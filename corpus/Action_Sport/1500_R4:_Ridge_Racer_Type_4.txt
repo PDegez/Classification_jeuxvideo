@@ -1,0 +1,1 @@
+A race car game where you can choose between 4 teams in story mode as you customize your race car. The player has to race against other cars for first place in order to qualify for the final Grand Prix.

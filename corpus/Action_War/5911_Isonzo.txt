@@ -1,0 +1,1 @@
+Multiplayer first person shooter, based on battles that occurred on the Italian Front during the First World War, in which players can either play as the Italians or the Austro-Hungarians. One team attacks while the other defends.

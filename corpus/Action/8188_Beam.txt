@@ -1,0 +1,1 @@
+Energy stations have to be linked together with energy beams while obstacles like magnets, gravity zones or moving balls are getting in the way.

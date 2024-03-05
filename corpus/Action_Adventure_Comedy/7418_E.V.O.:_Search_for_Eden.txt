@@ -1,0 +1,1 @@
+2D platform game where you play a primitive creature that must eat other creatures to evolve and reach the next level or era of life on Earth. Start as a fish-like thing and become a dinosaur or a human. The game has several joke endings.

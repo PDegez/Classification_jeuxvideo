@@ -1,0 +1,1 @@
+A simple action game in which a moon man moves across the screen. The player must fire a lightning bolt at the right time to zap it.

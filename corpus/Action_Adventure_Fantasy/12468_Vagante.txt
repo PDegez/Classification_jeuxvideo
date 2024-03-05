@@ -1,0 +1,1 @@
+Vagante is an action-packed platformer that features permanent death and procedurally generated levels. Play cooperatively with friends both locally and online, or adventure solo in this challenging roguelike-inspired game.

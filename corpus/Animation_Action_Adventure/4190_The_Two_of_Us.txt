@@ -1,0 +1,1 @@
+A 2D Co-op Platformer where you and a friend play as a ninja and a samurai. You will be greeted with various puzzle levels where you must work in conjunction with your friend to navigate the level.

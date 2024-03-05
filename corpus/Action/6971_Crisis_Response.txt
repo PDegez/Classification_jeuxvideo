@@ -1,0 +1,1 @@
+A side-scrolling tactical shooter that sets out to be challenging and to some extent realistic. The goal is to resolve situations where armed suspects and hostages are involved -- with as little bloodshed as possible.
