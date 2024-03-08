@@ -1,1 +1,0 @@
-Cartoon platform game with Tom hunting Jerry who has to collect all the cheese in the house.

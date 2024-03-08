@@ -1,1 +1,0 @@
-Sark is throwing light disks at you to deres you. You can either dodge, break or deflect Sark's disks. The object is to hit Sark with your disk first. If a chaser appears, you cannot dodge it. You must hit it twice to destroy it.

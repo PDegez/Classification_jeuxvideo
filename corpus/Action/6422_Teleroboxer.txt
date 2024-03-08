@@ -1,1 +1,0 @@
-A boxing simulator played in the first person view.

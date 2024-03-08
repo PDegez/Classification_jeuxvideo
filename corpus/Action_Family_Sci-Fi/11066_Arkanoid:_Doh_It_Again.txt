@@ -1,1 +1,0 @@
-The player controls a paddle attempting to bounce it against some bricks. The ball striking a brick causes the brick to disappear. When all the bricks are gone, the player goes to the next level, where another pattern of bricks appears.

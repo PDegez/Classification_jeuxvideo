@@ -1,1 +1,0 @@
-It is a reissue of the classic game "Frogger". The goal is to get the moor frog safely over busy roads and dry feet across a raging river. The games plot is simple, but is extremely fun and challenging. Log and crates will help you cross the river. The traffic is full of cars that you need to avoid and there are bugs flying around, some give you extra points while some hurt you.

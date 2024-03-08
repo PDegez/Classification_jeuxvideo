@@ -1,1 +1,0 @@
-Robot battle action game where the opponent's headquarter is the target.

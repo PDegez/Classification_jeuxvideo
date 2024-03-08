@@ -1,1 +1,0 @@
-A puzzle based game based on the fighting game series.

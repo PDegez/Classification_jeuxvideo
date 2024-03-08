@@ -1,1 +1,0 @@
-TumbleSeed is a deceptively deep roguelike, in which the player balances a rolling seed on an ascending, horizontally slanted vine past procedurally generated obstacles to reach the top of a mountain.

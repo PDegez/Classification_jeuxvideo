@@ -1,1 +1,0 @@
-Sequel to the side-scrolling space shooter featuring new enemies and power-ups.

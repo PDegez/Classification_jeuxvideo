@@ -1,1 +1,0 @@
-Operation Warcade is a shooter specifically designed for virtual reality, inspired by the late '80s classic war arcade games. Your objective is simply to clear as many levels as possible without dying. As the environment pans by, containing hundreds of enemies, you're given a machine gun in one hand and grenades in the other.

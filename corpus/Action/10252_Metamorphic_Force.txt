@@ -1,1 +1,0 @@
-A Konami arcade side scrolling beat 'em up featuring power-ups that transforms your character into beast mode.

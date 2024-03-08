@@ -1,1 +1,0 @@
-A multiplay only team deathmatch first person shooter, which puts you amidst the battle for Christmas. The game is very similar to Quake and other more modern shooters when it comes to controls and multiplayer gameplay.

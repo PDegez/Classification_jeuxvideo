@@ -1,1 +1,0 @@
-Two players compete on a fixed screen controlling the rotation, acceleration and missile firing of their respective space ships.

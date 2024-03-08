@@ -1,1 +1,0 @@
-A side-scrolling space-shooter featuring various power-ups and bio-mechanical enemies.

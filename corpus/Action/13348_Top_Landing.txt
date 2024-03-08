@@ -1,1 +1,0 @@
-A 3-D flight simulation game where the player is able to be the pilot of a plane with the option of flying to at least eight possible destinations. The destinations include Paris, France; San Francisco, California, USA; Tokyo, Japan; Osaka, Japan; Rio de Janeiro, Brazil; Fukuoka, Japan and Washington D.C.

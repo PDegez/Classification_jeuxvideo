@@ -1,1 +1,0 @@
-The player controls a vehicle that must avoid or collect certain objects as they scroll down the screen.

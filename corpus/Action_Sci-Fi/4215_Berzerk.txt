@@ -1,1 +1,0 @@
-Humanoid player runs through maze-like rooms, destroying robots while avoiding their fire. The indestructible Evil Otto is the game's timer, forcing the player to move on.

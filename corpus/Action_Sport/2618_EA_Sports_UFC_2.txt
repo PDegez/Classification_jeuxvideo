@@ -1,1 +1,0 @@
-The game's artificial intelligence accommodates for changes in player strategies mid-game to make the gaming experience more realistic than in previous UFC games.

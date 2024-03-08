@@ -1,1 +1,0 @@
-Players wander around a maze shooting at other players or computer-controlled robots. Players score points for kills. If they are shot, they are deducted points and transported to a random location in the maze.

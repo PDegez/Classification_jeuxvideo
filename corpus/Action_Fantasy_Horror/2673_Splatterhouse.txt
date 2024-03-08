@@ -1,1 +1,0 @@
-A side-scrolling beat-em-up based on the works of H.P. Lovecraft.

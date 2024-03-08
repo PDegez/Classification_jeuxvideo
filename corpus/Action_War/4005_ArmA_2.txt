@@ -1,1 +1,0 @@
-It's the most realistic combat environment in the world where the player is able to command AI squad members which adds a real-time strategy element to the game and allows to command multiple squads using the map.

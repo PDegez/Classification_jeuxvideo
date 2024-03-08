@@ -1,1 +1,0 @@
-A fan game that pays homage to the Doom franchise by reimagining it as a 2d retro platformer.

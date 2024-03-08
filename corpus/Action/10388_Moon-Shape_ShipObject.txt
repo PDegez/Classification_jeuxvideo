@@ -1,1 +1,0 @@
-Moon-Shape ShipObject, was originally designed in 2004, which was later adapted for present day use and given cross platform accessibility. The goal is to fire at as many triangles as you can, else its game over.

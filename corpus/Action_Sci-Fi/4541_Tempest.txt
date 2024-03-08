@@ -1,1 +1,0 @@
-You control a yellow crab-shaped shooter that travels along the outside rim of a 3-dimensional tunnel, shooting enemies down the alleys of the tunnel while avoiding any coming down the alleys. The tunnel takes on many different forms, and the shooter has a special "superzapper" that enables it to kill all enemies present in the tunnel.

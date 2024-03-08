@@ -1,1 +1,0 @@
-Mars is video arcade game made by Artic in 1981. The player pilots a spaceship over a leftward scrolling landscape. The laser gun can be fired in eight directions. Destroy the ground based enemies.

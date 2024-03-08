@@ -1,1 +1,0 @@
-Earth Book is a space VR FPS game. In order to simulate realistic space combat, the game was developed using Unreal Engine 4. In the game, players use VR handles to control a giant mech in battle. Experience different cosmic environments.

@@ -1,1 +1,0 @@
-A secret playable game from Netflix's Bandersnatch episode, can be played through the ZX Spectrum emulator.

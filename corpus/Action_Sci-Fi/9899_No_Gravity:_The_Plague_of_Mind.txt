@@ -1,1 +1,0 @@
-"No Gravity - The Plague Of Mind" is a 3D space shooter which allows you to control a spaceship from the first-person or third-person perspective. Your job is to accomplish missions, with diverse objectives ranging from destroying enemy ships or bases, escorting allied ships, raiding ground bases, clearing mine fields, etc.

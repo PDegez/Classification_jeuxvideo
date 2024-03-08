@@ -1,1 +1,0 @@
-A first person shooting with light gun game where you are a cop who has different assignments. You must shoot criminals while protecting innocent bystanders.

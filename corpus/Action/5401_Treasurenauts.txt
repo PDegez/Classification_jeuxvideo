@@ -1,1 +1,0 @@
-It's simple a 2D exploration with bits of Indiana Jones and Spelunky mixed in that challenges players to explore their surroundings and find treasure in the process.

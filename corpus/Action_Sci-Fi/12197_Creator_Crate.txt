@@ -1,1 +1,0 @@
-CreatorCrate is a roguelike 2D platformer about an escaped appliance that can eat and reproduce items. In the game, you make, throw, and manipulate physics objects to overcome challenges and survive. You must fight or evade intelligent humans and robots that are trying to track you down.

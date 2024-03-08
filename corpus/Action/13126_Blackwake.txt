@@ -1,1 +1,0 @@
-A first-person game where you fight naval battles between pirates and the navy.

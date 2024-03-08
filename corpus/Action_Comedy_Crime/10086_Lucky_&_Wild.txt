@@ -1,1 +1,0 @@
-A driving/shooting game where two characteristic cops pursue wanted suspects in high-speed chases.

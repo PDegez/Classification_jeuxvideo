@@ -1,1 +1,0 @@
-Project RuneMate is a 2d platformer where the main character has a physical disability; being stuck in a wheel chair. It's a multi leveled game where the player has to overcome various obstacles to progress to the next level.

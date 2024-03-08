@@ -1,1 +1,0 @@
-A scrolling shoot 'em up arcade game. You control a fighter jet and shoot enemies in the air and on the ground, collect power-ups and defeat bosses to advance levels.

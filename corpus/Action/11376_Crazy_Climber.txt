@@ -1,1 +1,0 @@
-Play human fly and scale a building while avoiding a wide variety of falling objects. Get picked up by a chopper at the top and do it all over again.

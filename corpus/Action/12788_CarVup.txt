@@ -1,1 +1,0 @@
-A platform game that has you controlling a character named Arnie. The twist is Arnie is a very uncommon star for a platformer. He is a red car.

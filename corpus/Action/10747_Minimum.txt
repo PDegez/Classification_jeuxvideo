@@ -1,1 +1,0 @@
-Minimum is an online third person shooter with RTS and RPG elements. Players must work together to develop a strategy to win. Teams fight over the worlds energy by using Titans to break down each others walls. Titans are powered by your teams Creep farming abilities.

@@ -1,1 +1,0 @@
-You fall down a tube, landing on each square progressively in a rhythmic manner. Landing on certain tiles will have certain effects, such as making the screen quake, decreasing the brightness or forcing you to jump.

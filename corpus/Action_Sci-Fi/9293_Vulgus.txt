@@ -1,1 +1,0 @@
-Shoot 'em up arcade game. The player controls a small spaceship and fights alien spaceships across three different planets.

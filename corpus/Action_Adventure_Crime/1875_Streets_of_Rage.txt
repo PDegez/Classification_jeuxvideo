@@ -1,1 +1,0 @@
-A horizontal side-scrolling beat-em-up. You fight your way through hordes of enemies, collecting weapons along the way.

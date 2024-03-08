@@ -1,1 +1,0 @@
-Kapt'n Krooz'r "kroozes" around the landscape and inside caves shooting monsters and avoiding collisions. Shoot two matching monsters in succession to make them disappear. On higher levels, shooting unmatched monsters creates "mutants".

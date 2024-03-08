@@ -1,1 +1,0 @@
-An interactive driving/shooting game based upon the TV series of the same name. You play a cop who must either shoot armed criminals while protecting the innocent or chase after escaping criminals in your patrol car.

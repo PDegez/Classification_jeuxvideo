@@ -1,1 +1,0 @@
-A first-person team combat simulator where each group of players take control of a historical warrior class and try to defeat the opposing teams. Play as Samurai, Spartans, Vikings, Knights, Ninjas or Pirates.

@@ -1,1 +1,0 @@
-A side scrolling action game. The player assumes control of 5 different female ninja characters. The more they are damaged by enemies, the more their clothes are torn off.

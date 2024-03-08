@@ -1,1 +1,0 @@
-Side scrolling action game based on the first Terminator movie.

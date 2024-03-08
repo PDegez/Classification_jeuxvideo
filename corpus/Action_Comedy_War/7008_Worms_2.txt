@@ -1,1 +1,0 @@
-Sequel to the artillery tactical game Worms. Control an army of worms in combat using a collection of eclectic weaponry such as bazookas, dynamite, grenades, cluster bombs, homing missiles, banana bombs and the holy hand grenade.

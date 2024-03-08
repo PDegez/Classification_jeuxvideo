@@ -1,1 +1,0 @@
-A war simulator based on the Apache helicopter.

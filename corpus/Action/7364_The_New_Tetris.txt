@@ -1,1 +1,0 @@
-Tetris version for the Nintendo 64. In addition to clearing lines, players can also form 4x4 large squares of four pieces to form silver or golden blocks for more points.

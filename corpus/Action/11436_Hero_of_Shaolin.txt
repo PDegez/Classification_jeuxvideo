@@ -1,1 +1,0 @@
-Android FMV game that entirely uses footage from Da wu shi yu xiao piao ke (1977) aka Heroes of Shaolin. The player is the hero of the movie, who must defeat multiple opponents. The player "fights" by pressing arrow prompts that pop out.

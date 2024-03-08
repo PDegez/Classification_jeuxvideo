@@ -1,1 +1,0 @@
-A big cat hunting simulator from the makers of the 3D Hunting series. Using a 3D engine players move around environments in South America, Africa, Asia, and North America, in pursuit of big cats.

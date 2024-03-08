@@ -1,1 +1,0 @@
-VR game in which the player must fight against a variety of enemies in order to recover stolen scrolls.

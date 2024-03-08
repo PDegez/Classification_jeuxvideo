@@ -1,1 +1,0 @@
-Enlisted is a first person shooter based around WW2. It is a game with squad gameplays leading a group of AI soldiers in the most iconic battles.

@@ -1,1 +1,0 @@
-A port of the coin-operated Space Invaders which differs from other versions in that it lacks cutscenes and a stage select, and it also only has one mode of play.

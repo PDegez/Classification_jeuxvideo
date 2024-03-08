@@ -1,1 +1,0 @@
-In a maze a blue car on the best PAC MAN style runs faster to catch the yellow flags. It's opponents, the red cars, try to avoid the success of the mission accomplishment. Using smoke and ability the blue car can reach it's aim.

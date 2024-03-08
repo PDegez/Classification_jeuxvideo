@@ -1,1 +1,0 @@
-A fixed screen shoot 'em up where the player has to defend the planet Sprites from an alien assault.

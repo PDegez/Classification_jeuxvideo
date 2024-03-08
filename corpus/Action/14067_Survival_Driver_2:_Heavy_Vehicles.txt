@@ -1,1 +1,0 @@
-Sequel to Survival Driver game. Now player drives and controls heavy and big vehicles, which are difficult to control.

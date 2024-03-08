@@ -1,1 +1,0 @@
-Players use soldiers to capture tiles on the board.

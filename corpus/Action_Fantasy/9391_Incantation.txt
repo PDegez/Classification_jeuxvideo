@@ -1,1 +1,0 @@
-A wizard has to use several spells that have different ranges and powers. The wizard has to collect items before the wizard can finish the level.

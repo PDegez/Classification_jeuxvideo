@@ -1,1 +1,0 @@
-Controlling the spaceship 'Vaus', the player must prevent a ball from leaving the playing field by bouncing it against bricks. Once all bricks have been destroyed, the player may progress to the next stage.

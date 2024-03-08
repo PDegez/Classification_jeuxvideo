@@ -1,1 +1,0 @@
-This chess simulator uses short full motion video sequences to somewhat violently illustrate the moments when chess pieces capture one another. The setting is medieval England and murderous Black kingdom is invading the White kingdom.

@@ -1,1 +1,0 @@
-A simulation on the game of tic-tac-toe in which its program was written on the Electronic Delay Storage Automatic Calculator, or EDSAC for short. The player and the CPU is able to choose either an X or an O on any of the nine spaces of the grid. The one who gets a three in a row is the winner. The game was programmed as part of a thesis on human-computer interaction.

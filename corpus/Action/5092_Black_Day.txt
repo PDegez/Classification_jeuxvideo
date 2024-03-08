@@ -1,1 +1,0 @@
-BlackDay is a FPS Tactical Stealth game, it allows you to personalize the game experience by setting different variables such as equipment, number and types of enemies. Construct and design your own levels to fit the ideas you have sought to create.

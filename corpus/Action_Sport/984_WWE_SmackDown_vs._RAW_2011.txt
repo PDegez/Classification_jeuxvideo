@@ -1,1 +1,0 @@
-Wrestling game based on the two brands of WWE: Raw and SmackDown, with the incorporation of a new physics system, a new "WWE Universe" mode and more.

@@ -1,1 +1,0 @@
-Pinball simulation game featuring a NASCAR license for it's table design.

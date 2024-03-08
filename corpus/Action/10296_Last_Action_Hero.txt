@@ -1,1 +1,0 @@
-The MS-DOS version of "Last Action Hero" is a combination of top-down driver and side-scrolling brawler. In the driving stage, Jack Slater has to chase down an armored truck and keep crashing into it until it is destroyed. Then begins the brawling stage where Jack fights a string of thugs and bosses (Bolo, Jet, Ice, Metal, Ripper), one at a time as he progresses across the level.

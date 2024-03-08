@@ -1,1 +1,0 @@
-In the future Botics, which is basically a three-dimensional version of Pong, has become the most popular sport. It is played by remote-controlled robots which are controlled by an human operator. The player takes the role of one of the operators and has to win the Botics championship.

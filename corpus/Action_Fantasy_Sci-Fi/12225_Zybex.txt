@@ -1,1 +1,0 @@
-Aside-scrolling space-shooter, similar to R-Type, with the usual bosses and power-ups.

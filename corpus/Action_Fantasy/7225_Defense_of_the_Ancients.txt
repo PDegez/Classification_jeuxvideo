@@ -1,1 +1,0 @@
-Play a 3v3 moba game as Sentinels vs the Scourge in an attempt to seize each other's bases through brute force and skill.

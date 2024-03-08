@@ -1,1 +1,0 @@
-An online multiplayer variation of Snake, the player must kill other players by causing them to collide with their powerline and eat their food to grow.

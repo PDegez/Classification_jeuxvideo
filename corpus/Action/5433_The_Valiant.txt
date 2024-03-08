@@ -1,1 +1,0 @@
-Point and click real-time strategy game, set in medieval times, in which players command a group of knights on a campaign.

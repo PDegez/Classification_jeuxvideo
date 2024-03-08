@@ -1,1 +1,0 @@
-It's a four-player arcade game where players make use of the 3D Maneuver Gear to zip around the skies and kill titans one after the other.

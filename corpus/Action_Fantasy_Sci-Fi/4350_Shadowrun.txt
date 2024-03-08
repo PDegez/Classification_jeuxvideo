@@ -1,1 +1,0 @@
-An online first-person shooter with RPG elements, based on the classic tabletop game, in which tech-savvy mercenaries compete for lucrative hacking, infiltration and termination jobs.

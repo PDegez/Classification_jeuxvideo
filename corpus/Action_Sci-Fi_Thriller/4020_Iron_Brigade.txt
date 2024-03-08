@@ -1,1 +1,0 @@
-Mech warrior combat simulation in the form of a third person shooter set in an alternate timeline World War I where mechs are used to fight a new robotic enemy.

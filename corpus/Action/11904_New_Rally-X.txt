@@ -1,1 +1,0 @@
-As a blue car, collect flags throughout a maze while dodging red enemy cars and rocks.

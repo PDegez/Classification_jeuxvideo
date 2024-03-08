@@ -1,1 +1,0 @@
-Fighting game based on Street Fighter 2 and Mortal Kombat where eight warriors from various time periods fight in gory death matches to face the immortal Death and, by killing it, obtain immortality themselves.

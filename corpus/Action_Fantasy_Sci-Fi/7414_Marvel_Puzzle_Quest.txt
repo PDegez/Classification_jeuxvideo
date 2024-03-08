@@ -1,1 +1,0 @@
-A match-three game using popular (and some not so popular) Marvel characters.

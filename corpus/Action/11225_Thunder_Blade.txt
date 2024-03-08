@@ -1,1 +1,0 @@
-A shooter arcade game where the player controls the helicopter and flies to towards the enemies as the player has to shoot at the enemies with the machine gun and launch missiles at enemy tanks, ships, aircraft while dodging enemy fire.

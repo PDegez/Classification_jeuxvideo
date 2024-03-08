@@ -1,1 +1,0 @@
-A RTS game spanning across different ages and nations to determine who is the best.

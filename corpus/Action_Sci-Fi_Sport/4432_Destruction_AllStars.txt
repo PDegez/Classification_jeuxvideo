@@ -1,1 +1,0 @@
-The player assumes control of one of 16 AllStars, each of them has access to unique hero vehicles.

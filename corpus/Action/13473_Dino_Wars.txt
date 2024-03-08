@@ -1,1 +1,0 @@
-Strategic board game with similarities to chess with action combat when attacking opponent's dinosaurs.

@@ -1,1 +1,0 @@
-Cockpit puts the player in the role of a pilot of a civil aircraft. The player must first successfully take off the plane and while in the air keep the horizon level and once the landing strip is shown land the plane again. If things go wrong the player can eject the pilot and must try to land him safely in between to cacti.

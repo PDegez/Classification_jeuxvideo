@@ -1,1 +1,0 @@
-A 2D platformer and battle royale game created to celebrate the Super Mario Bros. series' 35th anniversary.

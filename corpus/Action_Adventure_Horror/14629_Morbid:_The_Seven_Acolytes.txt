@@ -1,1 +1,0 @@
-Arcade-style horror role playing game in which the player must fight their way across a hostile world in order to free it.
