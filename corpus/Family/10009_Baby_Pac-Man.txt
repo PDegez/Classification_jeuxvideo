@@ -1,1 +1,0 @@
-Baby Pac-Man avoids ghosts and eats his way through a maze devoid of power pellets. These power-ups can only be earned by dropping into the pinball section. When a ball drains in the pinball section, play returns to the video mode.

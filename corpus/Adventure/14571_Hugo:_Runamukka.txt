@@ -1,1 +1,0 @@
-Hugo: Runamukka is a top-down action game set in maze-like levels. Hugo has to escape the claws of the Kawa by passing through complex mazes of temples. Enemies can be shot and there are health pick-ups.

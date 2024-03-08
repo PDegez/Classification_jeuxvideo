@@ -1,1 +1,0 @@
-Eldritch is the original imsim roguelike: a first-person action game inspired by roguelikes, immersive sims, and H. P. Lovecraft.

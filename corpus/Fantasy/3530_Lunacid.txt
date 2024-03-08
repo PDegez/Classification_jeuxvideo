@@ -1,1 +1,0 @@
-Lunacid is a first person dungeon crawler inspired by old FROMSOFT games like Shadow Tower and King's Field.

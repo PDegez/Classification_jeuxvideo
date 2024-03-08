@@ -1,1 +1,0 @@
-A 2D platformer with action game elements. Gameplay mainly revolves around using Light (blue) and Dark (red) energies, which allows the player to pass through their respective barriers, and attack monsters born of the opposite alignment.

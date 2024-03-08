@@ -1,1 +1,0 @@
-A side-scrolling game based on Spawn for the Game Boy Color.

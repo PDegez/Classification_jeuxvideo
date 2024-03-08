@@ -1,1 +1,0 @@
-Guide a transparent ball containing a monkey across a series of maze-like platforms and reach the goal without falling off or letting the timer reach zero in the GameCube port of the classic Monkey Ball arcade.

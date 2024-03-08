@@ -1,1 +1,0 @@
-8-bit game based on Disney's Aladdin, produced for the Sega Game Gear and Master System.

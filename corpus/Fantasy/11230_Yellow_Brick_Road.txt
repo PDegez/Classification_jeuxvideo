@@ -1,1 +1,0 @@
-A tactical turn-based strategy game with adventure elements that's inspired by the books about Oz by L. Frank Baum. You need to stop the invading forces of the Gnome King before they reach the Emerald City. Various Oz characters help you.

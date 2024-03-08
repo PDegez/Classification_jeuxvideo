@@ -1,1 +1,0 @@
-The Warrior, Valkyrie, Elf, and Wizard enter a dungeon with several hundred levels. Monster generators churn out wave after wave of enemies, destroy them to clear the level, and then find the exit. Collect food for health and magic items for power-ups.

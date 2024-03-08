@@ -1,1 +1,0 @@
-A paintball capture the flag game for the PC.

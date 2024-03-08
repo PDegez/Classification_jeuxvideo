@@ -1,1 +1,0 @@
-Side-scrolling 2D action platformer and the second half of Disney's Beauty and the Beast: Belle's Quest game. This time the player controls the Beast and the same story, loosely based on the movie, is told through his perspective.
