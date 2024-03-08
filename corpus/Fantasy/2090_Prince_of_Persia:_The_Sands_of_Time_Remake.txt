@@ -1,1 +1,1 @@
-Action adventure game in which the player must fight, as the Prince, against a treacherous Vizier.
+Action  game in which the player must fight, as the Prince, against a treacherous Vizier.
