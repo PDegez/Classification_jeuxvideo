@@ -1,1 +1,1 @@
-in this update to the original tetris the player must now eliminate fixed blocks by matching falling blocks of the same color if the blocks reach the top of the screen it' s game over 
+in this update to the original tetris the player must now eliminate fix block by match fall block of the same color if the block reach the top of the screen it ' s game over 

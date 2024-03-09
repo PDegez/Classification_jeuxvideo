@@ -1,1 +1,1 @@
-a bite sized 3d platformer with a few weird elements 
+a bite sized 3d platformer with a few weird element 

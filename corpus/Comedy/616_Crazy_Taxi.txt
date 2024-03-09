@@ -1,1 +1,1 @@
-an arcade game where you drive a taxi cab through a virtual san francisco your goal is to try and earn big cab fares by picking up passengers and dropping them off at their destination spots before you run out of time 
+an arcade game where you drive a taxi cab through a virtual san francisco your goal be to try and earn big cab fare by pick up passenger and drop they off at their destination spot before you run out of time 

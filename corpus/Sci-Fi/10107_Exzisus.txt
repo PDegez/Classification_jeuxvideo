@@ -1,1 +1,1 @@
-exzisus is a horizontally scrolling shooter where you controls a giant robot that can transform into a space ship or be accompanied by robotic animal helpers in an attempt to free four planets from a mechanical enemy 
+exzisus be a horizontally scroll shooter where you control a giant robot that can transform into a space ship or be accompany by robotic animal helper in an attempt to free four planet from a mechanical enemy 

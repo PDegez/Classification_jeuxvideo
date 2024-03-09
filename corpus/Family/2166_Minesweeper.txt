@@ -1,1 +1,1 @@
-minesweeper is a single player puzzle game wherein the player must find and defuse hidden mines without detonating them 
+minesweeper be a single player puzzle game wherein the player must find and defuse hide mine without detonate they 

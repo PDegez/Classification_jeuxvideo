@@ -1,1 +1,1 @@
-gameboy version of kid dracula the 2d side scrolling platformer that parodies the castlevania series 
+gameboy version of kid dracula the 2d side scrolling platformer that parody the castlevania series 

@@ -1,1 +1,1 @@
-motion simulator game in which players take the role of new pilots on a training mission to shoot down incoming spacecraft and other obstacles 
+motion simulator game in which player take the role of new pilot on a training mission to shoot down incoming spacecraft and other obstacle 
