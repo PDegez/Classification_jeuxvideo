@@ -1,1 +1,1 @@
-A tile-matching arcade puzzle video game. It features cute Japanese animation and music.
+a tile matching arcade puzzle video game it features cute japanese animation and music 

@@ -1,1 +1,1 @@
-Flinthook is a fast action-platformer with "roguelike" elements, Become space's greatest pirate with your hookshot, pistol and slowmo powers.
+flinthook is a fast action platformer with roguelike elements become space' s greatest pirate with your hookshot pistol and slowmo powers 

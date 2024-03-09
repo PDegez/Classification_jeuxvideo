@@ -1,1 +1,1 @@
-Splitgate is a fast-paced  multiplayer shooter that combines the strategic elements of portals with the explosive gameplay of a first person shooter.
+splitgate is a fast paced multiplayer shooter that combines the strategic elements of portals with the explosive gameplay of a first person shooter 

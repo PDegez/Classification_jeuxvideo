@@ -1,1 +1,1 @@
-Worms World Party is a 2D artillery turn-based tactics game involving controlling a team of worms and using a collection of weaponry to eliminate the opposing team(s).
+worms world party is a 2d artillery turn based tactics game involving controlling a team of worms and using a collection of weaponry to eliminate the opposing team s 

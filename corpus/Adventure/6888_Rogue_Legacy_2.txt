@@ -1,1 +1,1 @@
-Rogue Legacy 2 is a genealogical rogue-LITE. That means it has all the trappings of a typical rogue-like (randomized runs, changing characters, and more).
+rogue legacy 2 is a genealogical rogue lite that means it has all the trappings of a typical rogue like randomized runs changing characters and more 

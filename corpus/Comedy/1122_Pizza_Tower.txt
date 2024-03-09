@@ -1,1 +1,1 @@
-Pizza Tower is a fast paced 2D platformer inspired by the Wario Land series, with an emphasis on movement, exploration and score attack.
+pizza tower is a fast paced 2d platformer inspired by the wario land series with an emphasis on movement exploration and score attack 

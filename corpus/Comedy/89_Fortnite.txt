@@ -1,1 +1,1 @@
-A cooperative shooter-survival game for up to four players to fight off zombie-like husks, defend objects with fortifications you can build, and a battle royale mode where up to 100 players fight to be the last person standing.
+a cooperative shooter survival game for up to four players to fight off zombie like husks defend objects with fortifications you can build and a battle royale mode where up to 100 players fight to be the last person standing 

@@ -1,1 +1,1 @@
-Turn-based strategy game in which the player goes through 7 different campaigns, controlling a number of heroes that command an army of creatures inspired by myth and legend.
+turn based strategy game in which the player goes through 7 different campaigns controlling a number of heroes that command an army of creatures inspired by myth and legend 

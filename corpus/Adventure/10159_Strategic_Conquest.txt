@@ -1,1 +1,1 @@
-A two player strategy war game, were you conquer as much as possible.
+a two player strategy war game were you conquer as much as possible 

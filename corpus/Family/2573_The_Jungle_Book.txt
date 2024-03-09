@@ -1,1 +1,1 @@
-Side-scroller based on the animated 1967 Disney movie The Jungle Book. Mowgli must collect gems on each of the 10 levels to beat it before the time runs out. Bosses include Kaa, King Louie and Shere Khan. The hard mode unlocks a bonus.
+side scroller based on the animated 1967 disney movie the jungle book mowgli must collect gems on each of the 10 levels to beat it before the time runs out bosses include kaa king louie and shere khan the hard mode unlocks a bonus 

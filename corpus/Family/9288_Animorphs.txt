@@ -1,1 +1,1 @@
-A Game Boy Color game based on the 'Animorphs' series.
+a game boy color game based on the animorphs' series 

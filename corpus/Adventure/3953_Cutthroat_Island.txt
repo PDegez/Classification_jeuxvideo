@@ -1,1 +1,1 @@
-Side-scrolling action platformer based on
+side scrolling action platformer based on 

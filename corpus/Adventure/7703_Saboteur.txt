@@ -1,1 +1,1 @@
-Platformer and beat-em-up in which you play an industrial saboteur.
+platformer and beat em up in which you play an industrial saboteur 

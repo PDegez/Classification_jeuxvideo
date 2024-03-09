@@ -1,1 +1,1 @@
-R-Types is a compilation of R-Type and R-Type 2 ported pixel-for-pixel from the coin-op to the PlayStation.
+r types is a compilation of r type and r type 2 ported pixel for pixel from the coin op to the playstation 

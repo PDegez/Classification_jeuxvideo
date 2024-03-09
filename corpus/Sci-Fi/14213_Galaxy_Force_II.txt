@@ -1,1 +1,1 @@
-A first-person, 3D space-shooter video game.
+a first person 3d space shooter video game 

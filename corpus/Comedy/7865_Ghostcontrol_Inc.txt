@@ -1,1 +1,1 @@
-GhostControl Inc. is a ghost hunting simulator with turn based battles, combined with a managerial part and some RPG elements.
+ghostcontrol inc is a ghost hunting simulator with turn based battles combined with a managerial part and some rpg elements 

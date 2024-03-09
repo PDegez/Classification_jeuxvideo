@@ -1,1 +1,1 @@
-A side-scrolling platformer alarmingly similar to Super Mario Bros.
+a side scrolling platformer alarmingly similar to super mario bros 

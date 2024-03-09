@@ -1,1 +1,1 @@
-A re-imagined version of Pac-Man presented in cabinet projection and a feature that allows Pac-Man to jump.
+a re imagined version of pac man presented in cabinet projection and a feature that allows pac man to jump 

@@ -1,1 +1,1 @@
-An action arcade game. Your task is to reach the gold placed in a well.
+an action arcade game your task is to reach the gold placed in a well 

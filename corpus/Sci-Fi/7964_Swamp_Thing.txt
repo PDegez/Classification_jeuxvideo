@@ -1,1 +1,1 @@
-NES game based on the animated series of the same name.
+nes game based on the animated series of the same name 

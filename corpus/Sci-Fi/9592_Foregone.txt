@@ -1,1 +1,1 @@
-Foregone is a fast and fluid 2D action-platformer packed with legendary loot and stunning pixel art.
+foregone is a fast and fluid 2d action platformer packed with legendary loot and stunning pixel art 

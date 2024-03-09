@@ -1,1 +1,1 @@
-The goal is to get as many chickens across a ten lane highway as possible in two minutes and sixteen seconds. When hit by a car the chicken moves back two lanes. There are eight levels in the game.
+the goal is to get as many chickens across a ten lane highway as possible in two minutes and sixteen seconds when hit by a car the chicken moves back two lanes there are eight levels in the game 

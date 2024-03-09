@@ -1,1 +1,1 @@
-Clustertruck is a chaotic physics based truckformer. Jump your way through insane levels in a game of "the floor is lava" on top of speeding trucks driven by terrible drivers.
+clustertruck is a chaotic physics based truckformer jump your way through insane levels in a game of the floor is lava on top of speeding trucks driven by terrible drivers 

@@ -1,1 +1,1 @@
-Action platformer for SNES, Sega Genesis and Sega CD based on Kenneth Branagh's movie of the same name. The game starts Frankenstein's monster seeking revenge against his creator. The plot is conveyed through still images and text.
+action platformer for snes sega genesis and sega cd based on kenneth branagh' s movie of the same name the game starts frankenstein' s monster seeking revenge against his creator the plot is conveyed through still images and text 

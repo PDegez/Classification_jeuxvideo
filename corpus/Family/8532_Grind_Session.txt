@@ -1,1 +1,1 @@
-A copycat of the Tony Hawk video games, skaters compete through a series of levels to achive their score.
+a copycat of the tony hawk video games skaters compete through a series of levels to achive their score 

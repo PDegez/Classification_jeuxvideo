@@ -1,1 +1,1 @@
-A racing game featuring characters from the Sonic games.
+a racing game featuring characters from the sonic games 

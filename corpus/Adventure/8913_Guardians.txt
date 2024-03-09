@@ -1,1 +1,1 @@
-Guardians is a horizontally-scrolling beat-em-up for one or two players featuring eight characters.
+guardians is a horizontally scrolling beat em up for one or two players featuring eight characters 

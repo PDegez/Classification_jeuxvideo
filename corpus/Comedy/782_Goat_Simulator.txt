@@ -1,1 +1,1 @@
-Goat Simulator is a open world, third-person perspective game in which the player explores a suburban setting as a goat. Jump, run, bash things, and lick objects.
+goat simulator is a open world third person perspective game in which the player explores a suburban setting as a goat jump run bash things and lick objects 

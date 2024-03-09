@@ -1,1 +1,1 @@
-A puzzle game where you must defeat various Pokémon puzzle masters.
+a puzzle game where you must defeat various pokémon puzzle masters 

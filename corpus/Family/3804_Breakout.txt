@@ -1,1 +1,1 @@
-Breakout is a narrative  game with interactive cinematic experience. It is about a group of misguided youths, who are sent to a correctional center and try to escape.
+breakout is a narrative game with interactive cinematic experience it is about a group of misguided youths who are sent to a correctional center and try to escape 

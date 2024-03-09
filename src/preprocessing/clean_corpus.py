@@ -1,6 +1,14 @@
 import glob
+import re
 
 CATEGORIES = ["adventure", "comedy", "family", "fantasy", "sci-fi"]
+
+
+def tokenize(text: str) -> list[str]:
+    return [
+        token.replace("’", "'")
+        for token in re.findall(r"\b\w+?\b(?:'|’)?", text)
+    ]
 
 
 def main():
@@ -8,9 +16,11 @@ def main():
     for path in all_files:
         with open(path, "r") as file:
             content = file.read()
-        for category in CATEGORIES:
-            content = content.replace(category, "")
+        tokens = tokenize(content)
         with open(path, "w") as file:
-            file.write(content)
+            for token in tokens:
+                if token not in CATEGORIES:
+                    file.write(token.lower() + " ")
+
 
 main()

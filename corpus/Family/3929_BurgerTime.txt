@@ -1,1 +1,1 @@
-Classic arcade game where the player as Chef Peter Pepper must run around platforms placing hamburger ingredients together as fast as possible while avoiding enemy ingredients like Mr. Hot Dog, Mr. Pickle and Mr. Egg.
+classic arcade game where the player as chef peter pepper must run around platforms placing hamburger ingredients together as fast as possible while avoiding enemy ingredients like mr hot dog mr pickle and mr egg 

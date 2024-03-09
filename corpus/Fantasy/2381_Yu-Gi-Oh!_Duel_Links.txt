@@ -1,1 +1,1 @@
-Mobile version of the 'Yu-Gi-Oh!' card game.
+mobile version of the yu gi oh card game 

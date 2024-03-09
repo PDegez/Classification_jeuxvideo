@@ -1,1 +1,1 @@
-A first person action  game for the PC with first person shooter segments as well as real-time strategy sections. Based on
+a first person action game for the pc with first person shooter segments as well as real time strategy sections based on 

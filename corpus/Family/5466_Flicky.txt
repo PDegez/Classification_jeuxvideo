@@ -1,1 +1,1 @@
-A platform game in which you control a blue bird and gather all the other birds and have to bring them safely to the exit.
+a platform game in which you control a blue bird and gather all the other birds and have to bring them safely to the exit 

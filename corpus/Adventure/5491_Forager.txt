@@ -1,1 +1,1 @@
-Forager is a 2D open world game inspired by exploration, farming and crafting games such as Stardew Valley, Terraria and Zelda.
+forager is a 2d open world game inspired by exploration farming and crafting games such as stardew valley terraria and zelda 
