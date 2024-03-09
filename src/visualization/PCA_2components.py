@@ -47,13 +47,14 @@ def main():
     corpus = glob.glob(f"{sys.argv[1]}/*/*.txt")
     classes = [os.path.basename(os.path.dirname(file_path)) for file_path in corpus]
     content = load_corpus(corpus)
-    vectorizer = CountVectorizer(input="content", stop_words="english")
-    #vectorizer = TfidfVectorizer(input="content", stop_words="english")
+    # vectorizer = CountVectorizer(input="content", stop_words="english")
+    vectorizer = TfidfVectorizer(input="content", stop_words="english")
     matrix = vectorizer.fit_transform(content).toarray()
     df = pd.DataFrame(matrix, columns=vectorizer.get_feature_names_out())
-    #print(df)
+    # print(df)
     pca = PCA(n_components=2)
     pca_matrix = pca.fit_transform(matrix)
+    print(pca.explained_variance_ratio_)
     output = pd.DataFrame(pca_matrix, columns=["1", "2"])
     output["Class"] = classes
     plot_vectors(output)
