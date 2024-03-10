@@ -2,7 +2,8 @@ import sys
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import train_test_split
 from sklearn.neighbors import KNeighborsClassifier
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score, confusion_matrix, ConfusionMatrixDisplay
+import matplotlib.pyplot as plt
 import glob
 
 
@@ -27,6 +28,10 @@ def knn_model(matrix, classes):
     knn_classifier.fit(x_train, y_train)
     y_pred = knn_classifier.predict(x_test)
     accuracy = accuracy_score(y_test, y_pred)
+    conf_matrix = confusion_matrix(y_test, y_pred)
+    disp = ConfusionMatrixDisplay(conf_matrix, display_labels=knn_classifier.classes_)
+    disp.plot()
+    plt.show()
     return accuracy
 
 
