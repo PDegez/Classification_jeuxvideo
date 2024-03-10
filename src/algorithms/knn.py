@@ -32,7 +32,7 @@ def knn_model_cross_val(matrix, classes):
     f_score = f1_score(classes, y_pred, average="macro")
     conf_matrix = confusion_matrix(classes, y_pred)
     disp = ConfusionMatrixDisplay(conf_matrix, display_labels=np.unique(classes))
-    disp.plot()
+    disp.plot(cmap="OrRd")
     plt.show()
     return accuracy, precision, recall, f_score
 
