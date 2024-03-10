@@ -2,7 +2,7 @@ import sys
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import cross_val_predict, cross_val_score, train_test_split
 from sklearn.neighbors import KNeighborsClassifier
-from sklearn.metrics import accuracy_score, confusion_matrix, ConfusionMatrixDisplay
+from sklearn.metrics import accuracy_score, confusion_matrix, ConfusionMatrixDisplay, precision_score, recall_score, f1_score
 import matplotlib.pyplot as plt
 import numpy as np
 import glob
@@ -27,11 +27,14 @@ def knn_model_cross_val(matrix, classes):
     knn_classifier = KNeighborsClassifier(n_neighbors=28)
     y_pred = cross_val_predict(knn_classifier, matrix, classes, cv=10)
     accuracy = accuracy_score(classes, y_pred)
+    precision = precision_score(classes, y_pred, average="macro")
+    recall = recall_score(classes, y_pred, average="macro")
+    f_score = f1_score(classes, y_pred, average="macro")
     conf_matrix = confusion_matrix(classes, y_pred)
     disp = ConfusionMatrixDisplay(conf_matrix, display_labels=np.unique(classes))
     disp.plot()
     plt.show()
-    return accuracy
+    return accuracy, precision, recall, f_score
 
 
 def find_best_k(matrix, classes):
@@ -59,6 +62,7 @@ def knn_model_split_train(matrix, classes):
     knn_classifier.fit(x_train, y_train)
     y_pred = knn_classifier.predict(x_test)
     accuracy = accuracy_score(y_test, y_pred)
+
     conf_matrix = confusion_matrix(y_test, y_pred)
     disp = ConfusionMatrixDisplay(conf_matrix, display_labels=knn_classifier.classes_)
     disp.plot()
@@ -75,9 +79,12 @@ def main():
     if len(sys.argv) == 3 and sys.argv[2] == "split":
         accuracy = knn_model_split_train(matrix, classes)
     else:
-        accuracy = knn_model_cross_val(matrix, classes)
+        accuracy, precision, recall, f_score = knn_model_cross_val(matrix, classes)
+        print(f"Accuracy: {accuracy}")
+        print(f"precision: {precision}")
+        print(f"recall: {recall}")
+        print(f"f_score: {f_score}")
     # find_best_k(matrix, classes)
-    print("Accuracy:", accuracy)
 
 
 if __name__ == "__main__":
