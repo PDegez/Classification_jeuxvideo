@@ -48,13 +48,15 @@ def knn_model_split_train(matrix, classes):
 
 
 def main():
-    if len(sys.argv) != 2:
+    if len(sys.argv) < 2:
         sys.exit("Usage: python3 visualization.py corpus/")
     corpus = glob.glob(f"{sys.argv[1]}/*/*.txt")
     matrix = get_matrix(corpus)
     classes = [path.split("/")[-2] for path in corpus]
-    accuracy = knn_model_cross_val(matrix, classes)
-    #accuracy = knn_model_split_train(matrix, classes)
+    if len(sys.argv) == 3 and sys.argv[2] == "split":
+        accuracy = knn_model_split_train(matrix, classes)
+    else:
+        accuracy = knn_model_cross_val(matrix, classes)
     print("Accuracy:", accuracy)
 
 
