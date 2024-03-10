@@ -1,9 +1,10 @@
 import sys
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.model_selection import train_test_split
+from sklearn.model_selection import cross_val_score, cross_val_predict
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix, ConfusionMatrixDisplay
 import matplotlib.pyplot as plt
+import numpy as np
 import glob
 
 
@@ -23,13 +24,16 @@ def get_matrix(corpus):
 
 
 def knn_model(matrix, classes):
-    x_train, x_test, y_train, y_test = train_test_split(matrix, classes, test_size=0.2, random_state=42)
+    #x_train, x_test, y_train, y_test = train_test_split(matrix, classes, test_size=0.2, random_state=42)
     knn_classifier = KNeighborsClassifier(n_neighbors=9)
-    knn_classifier.fit(x_train, y_train)
-    y_pred = knn_classifier.predict(x_test)
-    accuracy = accuracy_score(y_test, y_pred)
-    conf_matrix = confusion_matrix(y_test, y_pred)
-    disp = ConfusionMatrixDisplay(conf_matrix, display_labels=knn_classifier.classes_)
+    y_pred = cross_val_predict(knn_classifier, matrix, classes, cv=5)
+    #scores = cross_val_score(knn_classifier, matrix, classes, cv=5)
+    #mean_accuracy = np.mean(scores)
+    #knn_classifier.fit(x_train, y_train)
+    #y_pred = knn_classifier.predict(x_test)
+    accuracy = accuracy_score(classes, y_pred)
+    conf_matrix = confusion_matrix(classes, y_pred)
+    disp = ConfusionMatrixDisplay(conf_matrix, display_labels=np.unique(classes))
     disp.plot()
     plt.show()
     return accuracy
