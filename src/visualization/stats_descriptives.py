@@ -23,7 +23,10 @@ def extraction_wc(dossier:Path)->list:
     for texte in liste_path_textes:
         with open(texte, "r", encoding = "utf-8") as file:
             fichier_wc = len(file.read().split())
-            liste_wc.append(fichier_wc)
+            # taille minimale des textes : valeur déterminée après expérimentation pour garder plus de 500 textes par catégorie
+            if fichier_wc >= 16:
+                liste_wc.append(fichier_wc)
+    print(f"nombre de textes pour la catégorie {dossier.name}: {len(liste_wc)}")
     return liste_wc
 
 
