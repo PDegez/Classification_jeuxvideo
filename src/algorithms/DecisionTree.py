@@ -41,14 +41,16 @@ def dt_model_cross_val(matrix, classes):
     y_pred = cross_val_predict(dt_classifier, matrix, classes, cv=10)
     
     # Print des scores
-    accuracy = accuracy_score(classes, y_pred)
-    precision = precision_score(classes, y_pred, average="macro")
-    recall = recall_score(classes, y_pred, average="macro")
-    f_score = f1_score(classes, y_pred, average="macro")
-    print(f"accuracy : {accuracy}")
-    print(f"precision : {precision}")
-    print(f"recall : {recall}")
-    print(f"f_score : {f_score}")
+    #accuracy = accuracy_score(classes, y_pred)
+    # precision = precision_score(classes, y_pred, average="macro")
+    # recall = recall_score(classes, y_pred, average="macro")
+    # f_score = f1_score(classes, y_pred, average="macro")
+    # print(f"accuracy : {accuracy}")
+    # print(f"precision : {precision}")
+    # print(f"recall : {recall}")
+    # print(f"f_score : {f_score}")
+    print(classification_report(classes, y_pred))
+    
     
     conf_matrix = confusion_matrix(classes, y_pred)
     disp = ConfusionMatrixDisplay(conf_matrix, display_labels=np.unique(classes))
