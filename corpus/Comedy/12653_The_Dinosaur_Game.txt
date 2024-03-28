@@ -1,1 +1,0 @@
-the dinosaur game be a build in browser game in the google chrome web browser the player guide a pixelated tyrannosaurus rex across a side scroll landscape avoid obstacle to achieve a high score 
