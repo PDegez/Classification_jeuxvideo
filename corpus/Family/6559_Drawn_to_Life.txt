@@ -1,1 +1,0 @@
-the player can draw their own character weapon and accessory platform and object 
