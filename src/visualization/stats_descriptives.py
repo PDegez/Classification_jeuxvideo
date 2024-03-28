@@ -6,10 +6,13 @@ import csv
 
 
 def parser():
-    parser = argparse.ArgumentParser(description="Statistiques descriptives du corpus")
-    parser.add_argument("-p", "--boxplots", action="store_true", help="Affichage des boxplots")
+    parser = argparse.ArgumentParser(
+        description="Statistiques descriptives du corpus")
+    parser.add_argument("-p", "--boxplots",
+                        action="store_true", help="Affichage des boxplots")
     parser.add_argument("-c", "--csv", type=str, help="Chemin de l'output csv")
-    parser.add_argument("input_directory", help="Chemin vers le dossier contenant le corpus") 
+    parser.add_argument("input_directory",
+                        help="Chemin vers le dossier contenant le corpus") 
     args = parser.parse_args()
     
     return args
@@ -26,7 +29,10 @@ def extraction_wc(dossier:Path)->list:
             # taille minimale des textes : valeur déterminée après expérimentation pour garder plus de 500 textes par catégorie
             if fichier_wc >= 16:
                 liste_wc.append(fichier_wc)
-    print(f"nombre de textes pour la catégorie {dossier.name}: {len(liste_wc)}")
+                
+    print(f"{dossier.name.upper()}:")
+    print(f"Nombre de textes : {len(liste_wc)}")
+    
     return liste_wc
 
 
@@ -100,7 +106,13 @@ def main(dossier=None, plot=None, csv=None):
         if categorie.name != "Adventure":
             categorie_wc_list = extraction_wc(categorie)
             data_plot[categorie.name] = categorie_wc_list
-            print(f"{categorie.name.upper()}\nlongueur moyenne : {np.mean(categorie_wc_list)}\nlongueur max : {max(categorie_wc_list)}\nlongueur min : {min(categorie_wc_list)}\nécart type : {np.std(categorie_wc_list)}\nlongueur médiane : {np.percentile(categorie_wc_list, 50)}\npremier quartile : {np.percentile(categorie_wc_list, 25)}\ntroisième quartile : {np.percentile(categorie_wc_list, 75)}\n")
+            print(f"longueur moyenne : {np.mean(categorie_wc_list)}")
+            print(f"longueur max : {max(categorie_wc_list)}")
+            print(f"longueur min : {min(categorie_wc_list)}")
+            print(f"écart type : {np.std(categorie_wc_list)}")
+            print(f"longueur médiane : {np.percentile(categorie_wc_list, 50)}")
+            print(f"premier quartile : {np.percentile(categorie_wc_list, 25)}")
+            print(f"troisième quartile : {np.percentile(categorie_wc_list, 75)}\n")
 
     #Statistiques vers sortie csv
     if csv:
@@ -115,9 +127,3 @@ if __name__ == "__main__":
     args=parser()
     print(args)
     main(dossier=Path(args.input_directory), plot=args.boxplots, csv=args.csv)
-
-
-        
-
-
-    
