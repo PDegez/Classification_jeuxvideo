@@ -51,7 +51,7 @@ def plot_descriptifs(data: dict):
     # Ajustement de la fenêtre pour exclure du visuel les 5% de données supérieures
     # (qui sont abérantes)
     limite_superieure = np.percentile(all_data, 95)
-    ax.set_ylim( 0, limite_superieure)
+    ax.set_ylim(15, limite_superieure)
     
     # Changement des couleurs
     for box in boxplot['boxes']:
