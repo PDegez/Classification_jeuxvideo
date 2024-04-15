@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+      Comedy       0.36      0.41      0.38       500
+      Family       0.48      0.42      0.45       500
+     Fantasy       0.41      0.39      0.40       500
+      Sci-Fi       0.50      0.51      0.50       500
+
+    accuracy                           0.43      2000
+   macro avg       0.44      0.43      0.43      2000
+weighted avg       0.44      0.43      0.43      2000
