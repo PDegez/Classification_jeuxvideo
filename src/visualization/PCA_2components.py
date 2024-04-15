@@ -16,17 +16,16 @@ def load_corpus(corpus):
 
 
 def plot_vectors(output):
-    plt.figure(figsize=(12, 7))
+    plt.figure()
     classes = output["Class"].unique()
     for class_name in classes:
         if class_name == "Fantasy":
             color = "maroon"
-        elif class_name == "Adventure":
-            color = "lightcoral"
         elif class_name == "Family":
             color = "moccasin"
         elif class_name == "Comedy":
-            color = "tan"
+            #color = "tan"
+            color = "lightcoral"
         elif class_name == "Sci-Fi":
             color = "peru"
         else:
