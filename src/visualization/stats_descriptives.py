@@ -102,18 +102,26 @@ def main(dossier=None, plot=None, csv=None):
     #Statistiques vers sortie standard
     print("\nSTATISTIQUES DESCRIPTIVES POUR NOS CATEGORIES : \n")
     data_plot = {}
+    total =[]
     for categorie in dossiers_categories:
-        if categorie.name != "Adventure":
-            categorie_wc_list = extraction_wc(categorie)
-            data_plot[categorie.name] = categorie_wc_list
-            print(f"longueur moyenne : {np.mean(categorie_wc_list)}")
-            print(f"longueur max : {max(categorie_wc_list)}")
-            print(f"longueur min : {min(categorie_wc_list)}")
-            print(f"écart type : {np.std(categorie_wc_list)}")
-            print(f"longueur médiane : {np.percentile(categorie_wc_list, 50)}")
-            print(f"premier quartile : {np.percentile(categorie_wc_list, 25)}")
-            print(f"troisième quartile : {np.percentile(categorie_wc_list, 75)}\n")
-
+        categorie_wc_list = extraction_wc(categorie)
+        data_plot[categorie.name] = categorie_wc_list
+        total += categorie_wc_list 
+        print(f"longueur moyenne : {np.mean(categorie_wc_list)}")
+        print(f"longueur max : {max(categorie_wc_list)}")
+        print(f"longueur min : {min(categorie_wc_list)}")
+        print(f"écart type : {np.std(categorie_wc_list)}")
+        print(f"longueur médiane : {np.percentile(categorie_wc_list, 50)}")
+        print(f"premier quartile : {np.percentile(categorie_wc_list, 25)}")
+        print(f"troisième quartile : {np.percentile(categorie_wc_list, 75)}\n")
+    print("\tTOTAL")
+    print(f"longueur moyenne : {np.mean(total)}")
+    print(f"longueur max : {max(total)}")
+    print(f"longueur min : {min(total)}")
+    print(f"écart type : {np.std(total)}")
+    print(f"longueur médiane : {np.percentile(total, 50)}")
+    print(f"premier quartile : {np.percentile(total, 25)}")
+    print(f"troisième quartile : {np.percentile(total, 75)}\n")
     #Statistiques vers sortie csv
     if csv:
         write_csv(data_plot, Path(csv))
