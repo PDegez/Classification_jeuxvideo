@@ -42,6 +42,7 @@ def get_matrix(corpus):
 
 def print_error():
     print("Choississez un classifieur : option -c suivi du modele choisi :")
+    print("-c KNN \tpour lancer KNN" )
     print("-c NB \tpour lancer Naive Bayes")
     print("-c SVM \tpour lancer SVM")
     print("-c DT \tpour lancer Decision Tree")
