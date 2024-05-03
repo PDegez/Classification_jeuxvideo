@@ -61,6 +61,11 @@ def plot_descriptifs(data: dict):
     for mean in boxplot['means']:
         mean.set(color='white') 
     
+    # Assignation des titres + labels
+    plt.title("Longueur des textes par catégorie")
+    plt.xlabel('Catégories')
+    plt.ylabel('Nombre de mots')
+    
     # Assignation des clés du dictionnaire aux labels des plots
     ax.set_xticklabels(data.keys())
 
