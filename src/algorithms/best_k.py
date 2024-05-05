@@ -72,19 +72,19 @@ def knn_model_split_train(matrix, classes):
 
 def main():
     if len(sys.argv) < 2:
-        sys.exit("Usage: python3 visualization.py corpus/")
+        sys.exit("Usage: python3 best_k.py corpus/")
     corpus = glob.glob(f"{sys.argv[1]}/*/*.txt")
     matrix = get_matrix(corpus)
     classes = [path.split("/")[-2] for path in corpus]
     if len(sys.argv) == 3 and sys.argv[2] == "split":
         accuracy = knn_model_split_train(matrix, classes)
     else:
-        accuracy, precision, recall, f_score = knn_model_cross_val(matrix, classes)
-        print(f"Accuracy: {accuracy}")
-        print(f"precision: {precision}")
-        print(f"recall: {recall}")
-        print(f"f_score: {f_score}")
-    # find_best_k(matrix, classes)
+    #   accuracy, precision, recall, f_score = knn_model_cross_val(matrix, classes)
+    #    print(f"Accuracy: {accuracy}")
+    #    print(f"precision: {precision}")
+    #    print(f"recall: {recall}")
+    #    print(f"f_score: {f_score}")
+         find_best_k(matrix, classes)
 
 
 if __name__ == "__main__":
