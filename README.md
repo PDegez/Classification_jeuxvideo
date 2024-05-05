@@ -92,13 +92,13 @@ _______________________________________________________
 Attention : présuppose que vous disposiez de l'arborescence fichier du git en local.
 Ces scripts sont dans le dossier src/algorithms.
 
-** Calcul du best k pour knn** :
+**Calcul du best k pour knn** :
 
 ```bash
 python3 python3 best_k.py ../../corpus/
 ```
 
-** Classifieurs ** :
+**Classifieurs** :
 
 Ces scripts sont tous lancé à partir d'un master script (main_script.py) qui va appeler des fonctions stockées dans le fichier algorithms.py. Ils affichent tous par défaut la matrice de confusion du classifieur et renvoient en sortie standard les différents scores (precision, recall, accuracy, f1_score etc...).
 
