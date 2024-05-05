@@ -42,7 +42,7 @@ def plot_vectors(output):
 
 def main():
     if len(sys.argv) != 2:
-        sys.exit("Usage: python3 visualization.py corpus/")
+        sys.exit("Usage: python3 PCA_2components.py corpus/")
     corpus = glob.glob(f"{sys.argv[1]}/*/*.txt")
     classes = [os.path.basename(os.path.dirname(file_path)) for file_path in corpus]
     content = load_corpus(corpus)

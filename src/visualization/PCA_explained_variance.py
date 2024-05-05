@@ -42,7 +42,7 @@ def plot_var_ratio(cum_sum_eigenvalues):
 
 def main():
     if len(sys.argv) != 2:
-        sys.exit("Usage: python3 visualization.py corpus/")
+        sys.exit("Usage: python3 PCA_explained_variance.py corpus/")
     corpus = glob.glob(f"{sys.argv[1]}/*/*.txt")
     content = load_corpus(corpus)
     cum_sum_eigenvalues = calculate_PCA(content)

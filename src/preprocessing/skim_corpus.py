@@ -27,21 +27,25 @@ def nettoyage_corpus(dossier:Path)->list:
     for texte in liste_path_textes:
         with open(texte, "r", encoding = "utf-8") as file:
             fichier_wc = len(file.read().split())
-            # taille minimale des textes : valeur déterminée après expérimentation pour garder plus de 500 textes par catégorie
+            
+            # taille minimale des textes : valeur déterminée après 
+            # expérimentation pour garder plus de 500 textes par catégorie
             if fichier_wc < 16:
                 os.remove(texte)
     return print("fonction nettoyage = ok")
 
+
 def main(dossier_input=None):
-    dossiers_categories = [d for d in Path(dossier_input).iterdir() if d.is_dir()]
+    dossiers_categories = [
+        d for d in Path(dossier_input).iterdir() if d.is_dir()
+        ]
 
     for categorie in dossiers_categories:
         if categorie.name != "Adventure":
             nettoyage_corpus((categorie))
         else:
             shutil.rmtree(categorie)
-    
-    
+     
             
 if __name__ == "__main__":
     args = parser()
